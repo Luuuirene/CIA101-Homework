@@ -1,6 +1,6 @@
 package hw2;
 
-public class homework2_2 {
+public class Hw2_2 {
 	public static void main(String[] args) {
 		for(int i = 1; i <= 9; i++ ) {
 			int j = 1;
